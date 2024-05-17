@@ -1,2 +1,2 @@
 # match-mania-gp
-v1
+v2
